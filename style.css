@@ -95,7 +95,7 @@ body {
 }
 
 .banner-section {
-    background-image: url(/Interfaces/home-banner-image.jpg);
+    background-image: url(./Interfaces/home-banner-image.jpg);
     width: 100%;
     height: 900px;
     background-position: 50%;
